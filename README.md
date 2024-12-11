@@ -1,4 +1,4 @@
-# Netflix Movies and TV Show Analysis (2000 - 2021) : Insights and Trends
+# Netflix Movies and TV Shows (2000 - 2021) : Insights and Trends
 
 ![1](https://github.com/user-attachments/assets/63eb0c7f-b2fc-4618-80df-27b4c769b66b)
 
