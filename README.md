@@ -1,7 +1,7 @@
+# Netflix Movies and TV Show Analysis (2000 - 2021) : Insights and Trends
+
 ![1](https://github.com/user-attachments/assets/63eb0c7f-b2fc-4618-80df-27b4c769b66b)
 
-
-# Netflix Movies and TV Show Analysis (2000 - 2021) : Insights and Trends
 
 ## Content Overview
 
@@ -24,9 +24,10 @@
 
 
 
+## Insights into Movies on Netflix
+
 ![2](https://github.com/user-attachments/assets/2e0f7b47-590b-4135-afaa-01084fa46319)
 
-## Insights into Movies on Netflix
 
 ### Key Performance
 •	71% of Netflix Catalog is Movies 
@@ -43,9 +44,9 @@
 
 
 
+## TV Shows Dashboard Insights
 ![3](https://github.com/user-attachments/assets/c3582963-dbe6-4c76-9a0a-f2032c9290cd)
 
-## TV Shows Dashboard Insights
 
 ### Key Performance
 •	TV shows account for 29% of Netflix catalog, with an average series length of two seasons suggesting a preference for shorter series. 
@@ -64,9 +65,9 @@
 
 
 
+## Data Gaps in Netflix’s Content
 ![4](https://github.com/user-attachments/assets/0aac9c93-8405-4253-9451-0df1860c6f10)
 
-## Data Gaps in Netflix’s Content
 
 ### Investigation:
 •	25.91% of Data do not contain necessary details like Director and Country.
@@ -75,6 +76,7 @@
 ### Missing Data Trends 
 • Netflix's aggressive expansion of its catalog appears to be the modus operandi for the spike in missing data over the years. From 2019 to 2020, we saw a decline in missing data as Netflix got a grip of its data management.
 • 866 countries that produce tv shows unknown and 6,219 director entries of missing shows.
+
 
 
 ## Recommendations
