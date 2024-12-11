@@ -16,7 +16,7 @@
 ###	Top Content Producers 
 •	U.S.A, India and U.K  dominate production by countries.
 
-### Genre Landscape
+### Genre 
 • The genre landscape is dominated by international films and dramas, indicating a strong global appeal and demand for emotional storytelling
 
 ###	Missing Data 
