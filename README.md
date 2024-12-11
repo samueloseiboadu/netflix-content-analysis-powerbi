@@ -81,15 +81,11 @@
 
 ## Recommendations
 
-1.	Improve Data Collection Methods
-	Improve the quality and completeness of your data by addressing data gaps particularly for directors & countries.
+• Improve the quality and completeness of your data by addressing data gaps particularly for directors & countries.
 
-2.	Regional Partnerships
-	Strengthen collaborations with Key content producing countries like U.S., U.K., India & South Korea for high-quality content production.
+• Strengthen collaborations with Key content producing countries like U.S., U.K., India & South Korea for high-quality content production.
 
-3.	Targeted Content Strategies
-	Use the insights from genre and country trends to develop  an effective marketing strategy. Bridging the data gaps will ensure better targeting of regional audiences, leading to improved engagement and growth in underperforming regions.
+• Use the insights from genre and country trends to develop  an effective marketing strategy. Bridging the data gaps will ensure better targeting of regional audiences, leading to improved engagement and growth in underperforming regions.
 
-4. Investigate Decline in Content Growth 
-	Investigate the reasons behind the slight decline in content and implement strategies to reignite content expansion, maintaining a competitive edge in the market.
+• Investigate the reasons behind the slight decline in growth of the content and implement strategies to reignite content expansion, maintaining a competitive edge in the market.
 
