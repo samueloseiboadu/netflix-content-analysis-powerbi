@@ -44,7 +44,7 @@
 
 
 
-## TV Shows Dashboard Insights
+## TV Shows on Netflix: Insights
 ![3](https://github.com/user-attachments/assets/c3582963-dbe6-4c76-9a0a-f2032c9290cd)
 
 
