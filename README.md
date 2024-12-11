@@ -22,6 +22,8 @@
 ###	Missing Data 
 •	26% of missing data highly includes directors and content production countries.
 
+
+
 ![2](https://github.com/user-attachments/assets/2e0f7b47-590b-4135-afaa-01084fa46319)
 
 ## Insights into Movies on Netflix
@@ -38,6 +40,8 @@
 
 ###	Growth Trends 
 •	Rise in addition of content from 2015 with 3,855 movies added in 2019 and followed by a decline in the latter years.
+
+
 
 ![3](https://github.com/user-attachments/assets/c3582963-dbe6-4c76-9a0a-f2032c9290cd)
 
@@ -58,6 +62,8 @@
 ###	Growth Trends 
 •	TV shows expansion on Netflix from 2015, followed by a decline after 2020.
 
+
+
 ![4](https://github.com/user-attachments/assets/0aac9c93-8405-4253-9451-0df1860c6f10)
 
 ## Data Gaps in Netflix’s Content
@@ -70,17 +76,18 @@
 • Netflix's aggressive expansion of its catalog appears to be the modus operandi for the spike in missing data over the years. From 2019 to 2020, we saw a decline in missing data as Netflix got a grip of its data management.
 • 866 countries that produce tv shows unknown and 6,219 director entries of missing shows.
 
+
 ## Recommendations
 
 1.	Improve Data Collection Methods
-o	Improve the quality and completeness of your data by addressing data gaps particularly for directors & countries.
+	Improve the quality and completeness of your data by addressing data gaps particularly for directors & countries.
 
-3.	Regional Partnerships
-o	Strengthen collaborations with Key content producing countries like U.S., U.K., India & South Korea for high-quality content production.
+2.	Regional Partnerships
+	Strengthen collaborations with Key content producing countries like U.S., U.K., India & South Korea for high-quality content production.
 
-4.	Targeted Content Strategies
-o	Use the insights from genre and country trends to develop  an effective marketing strategy. Bridging the data gaps will ensure better targeting of regional audiences, leading to improved engagement and growth in underperforming regions.
+3.	Targeted Content Strategies
+	Use the insights from genre and country trends to develop  an effective marketing strategy. Bridging the data gaps will ensure better targeting of regional audiences, leading to improved engagement and growth in underperforming regions.
 
-5. Investigate Decline in Content Growth 
-o	Investigate the reasons behind the slight decline in content and implement strategies to reignite content expansion, maintaining a competitive edge in the market .
+4. Investigate Decline in Content Growth 
+	Investigate the reasons behind the slight decline in content and implement strategies to reignite content expansion, maintaining a competitive edge in the market.
 
