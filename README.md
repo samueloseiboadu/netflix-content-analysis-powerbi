@@ -10,8 +10,8 @@
 •	71% Movies | 29% TV Shows
  
 ### Content Trends
-o	Significant increase in Netflix content from 2015.
-o	5,401 movies and tv shows added in 2019, followed by a decline in the following years
+•	Significant increase in Netflix content from 2015.
+•	5,401 movies and tv shows added in 2019, followed by a decline in the following years
 
 ###	Top Content Producers 
 •	U.S.A, India and U.K  dominate production by countries.
@@ -20,7 +20,7 @@ o	5,401 movies and tv shows added in 2019, followed by a decline in the followin
 • The genre landscape is dominated by international films and dramas, indicating a strong global appeal and demand for emotional storytelling
 
 ###	Missing Data 
-o	26% of missing data highly includes directors and content production countries.
+•	26% of missing data highly includes directors and content production countries.
 
 ![2](https://github.com/user-attachments/assets/2e0f7b47-590b-4135-afaa-01084fa46319)
 
@@ -31,7 +31,7 @@ o	26% of missing data highly includes directors and content production countries
 •	Average Duration: 103.91 mins
 
 ###	Popular Genres 
-o	International movies have have a strong global appeal with bout 3,499 addition on Netflix, followed by dramas and comedies.
+•	International movies have have a strong global appeal with bout 3,499 addition on Netflix, followed by dramas and comedies.
 
 ###	Top Producers 
 • The U.S. leads movie production with 5,005 movies added to Netflix, followed by India (2,603) reflecting the dominance of Hollywood and Bollywood.
@@ -47,13 +47,13 @@ o	International movies have have a strong global appeal with bout 3,499 addition
 •	TV shows account for 29% of Netflix catalog, with an average series length of two seasons suggesting a preference for shorter series. 
 
 ### Top Genres 
-o	International TV Shows, Dramas, and comedy are the leading genres, showcasing its global reach and focus on family friendly content.
+•	International TV Shows, Dramas, and comedy are the leading genres, showcasing its global reach and focus on family friendly content.
 
 ###	Production Trends 
-o	 Production peaked in 2020 with 1,541 tv shows, before declining slightly in 2021. This may reflect a shift in strategy
+•	 Production peaked in 2020 with 1,541 tv shows, before declining slightly in 2021. This may reflect a shift in strategy
 
 ###	Key Producers By Country
-o	U.S. leads the country producing tv shows with a number 1,761 shows, followed by  U.K. with 714 and South Korea 482.
+•	U.S. leads the country producing tv shows with a number 1,761 shows, followed by  U.K. with 714 and South Korea 482.
 
 ###	Growth Trends 
 •	TV shows expansion on Netflix from 2015, followed by a decline after 2020.
@@ -63,8 +63,8 @@ o	U.S. leads the country producing tv shows with a number 1,761 shows, followed 
 ## Data Gaps in Netflix’s Content
 
 ### Investigation:
-o	25.91% of Data do not contain necessary details like Director and Country.
-o	About 7,000 Directors and 2,000 countries unaccounted for.
+•	25.91% of Data do not contain necessary details like Director and Country.
+•	About 7,000 Directors and 2,000 countries unaccounted for.
 
 ### Missing Data Trends 
 • Netflix's aggressive expansion of its catalog appears to be the modus operandi for the spike in missing data over the years. From 2019 to 2020, we saw a decline in missing data as Netflix got a grip of its data management.
