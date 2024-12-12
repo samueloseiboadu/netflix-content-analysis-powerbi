@@ -40,7 +40,7 @@
 • The U.S. leads movie production with 5,005 movies added to Netflix, followed by India (2,603) reflecting the dominance of Hollywood and Bollywood.
 
 ###	Growth Trends 
-•	Rise in addition of content from 2015 with 3,855 movies added in 2019 and followed by a decline in the latter years.
+•	Rise in Netflix content from 2015 with 3,855 movies added in 2019 and followed by a decline in the latter years.
 
 
 
